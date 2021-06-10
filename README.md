@@ -1,6 +1,7 @@
 # TetriS-with-OpenCV-Python
 TetriS – a popular and addictive video game 🎮
 The game consists of a board that is 10 cells across and 20 cells high
+
 Tetris Pieces: 
 
 In Tetris, block fall from the top of the board vertically down.There are seven different kinds of pieces. We denote them using the letters “O”, “I”, “S”, “Z”, “L”, “J”, and “T” in our code.
