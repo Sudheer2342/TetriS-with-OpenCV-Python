@@ -18,5 +18,5 @@ S moves the piece down by 1 cell.                                               
 
 Rules of the game:                                                                                                                                                                
 If a single line is cleared by an action, you receive 40 points. 
-f two lines are cleared in one shot, you receive 💯 points, and if three lines are cleared you get 300 points.
+If two lines are cleared in one shot, you receive 💯 points, and if three lines are cleared you get 300 points.
 Clearing 4 lines in a single shot gets you 1200 points!
